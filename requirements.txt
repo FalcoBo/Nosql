@@ -2,3 +2,4 @@ faker
 pymongo
 random
 logging
+flask
